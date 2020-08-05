@@ -1,11 +1,20 @@
-- path:
+### 文件
 
-  ~/.config/fcitx/rime/build/luna_pinyin_simp.schema.yaml
+- default.yaml
 
-  ~/.config/ibus/rime/build/luna_pinyin_simp.schema.yaml
+- luna_pinyin_simp.schema.yaml
 
-- 输入法选择: 明月拼音-简化字
+### Fcitx设置
 
-- 修改配置, 托盘选择重新部署即可.
+- linux
+  - 覆盖文件到 ~/.config/fcitx/rime/build/
+  - 输入法选择: 明月拼音-简化字
+  - 选择重新部署
+
+- windows
+
+  - 托盘菜单打开程序文件夹, 覆盖文件到data下
+  - 输入法选择: 明月拼音-简化字
+  - 选择重新部署
 
   
