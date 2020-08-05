@@ -1,4 +1,5 @@
 *
 !.gitignore
+!default.yaml
 !luna_pinyin_simp.schema.yaml
 !README.md
