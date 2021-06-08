@@ -6,6 +6,8 @@
 
 ### Linux设置
 
+* apt install fcitx-rime
+
 * fcitx:
 
 * 覆盖文件到 \~/.config/fcitx/rime/build/
