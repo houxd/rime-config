@@ -6,13 +6,13 @@
 
 ### Linux设置
 
-* apt install fcitx-rime
+* 安装FCITX的rime: apt install fcitx-rime
 
-* fcitx:
+* 配置fcitx选择中州韵
 
 * 覆盖文件到 \~/.config/fcitx/rime/build/
 
-* 输入法选择: 明月拼音-简化字
+* 输入法选择(F4): 明月拼音-简化字
 
 * 选择重新部署
 
